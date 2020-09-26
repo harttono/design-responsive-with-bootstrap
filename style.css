@@ -95,7 +95,7 @@ body{
 
 /* Section 2 */
 
-.section-2 .container-fluid{
+.section-2 .container-fluid .bg-section{
     background:url('/img/img-jumbo.jpg');
     background-attachment:fixed;
     background-size:cover;
